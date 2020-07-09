@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SevenNews</string>
+    <string name="all_home">Home</string>
+    <string name="all_categories">Categories</string>
+    <string name="all_bookmarks">Bookmarks</string>
+    <string name="all_videos">Videos</string>
+    <string name="home_viewAll">View All</string>
+    <string name="home_latestNews">Latest News</string>
+    <string name="home_searchHint">Search Here...</string>
+    <string name="all_unknownError">Unknown Error</string>
+    <string name="bookmark_addNewBookmark">No Bookmark Yet? Start Now!</string>
+    <string name="setting_title">Setting</string>
+    <string name="setting_selectLocaleMessage">Select Application Default Language</string>
+    <string name="setting_restartMessage">Please restart application for changing the language</string>
+    <string name="search_noResultMessage">No Result!</string>
+</resources>
